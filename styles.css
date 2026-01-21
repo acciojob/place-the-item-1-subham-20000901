@@ -1,2 +1,23 @@
+.holder{
+	display:flex;
+	justify-content:space-between;
+	/* background-color:black; */
+	flex-wrap: wrap;
+}
 
+
+.item{
+	width:100px;
+	height:100px;
+	
+}
+.red{
+	background-color:red;
+}
+.green{
+	background-color:green;
+}
+.blue{
+	background-color:blue;
+}
 /* Your CSS Code here. */
